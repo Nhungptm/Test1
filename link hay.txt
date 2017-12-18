@@ -1,0 +1,25 @@
+http://imdev.vn/tong-hop-phim-tat-cua-sublime-text/
+https://vietnamlab.vn/blog/2016/03/25/nhung-thu-thuat-nho-khi-su-dung-sublime-text/
+http://lehuuvinhuit.blogspot.jp/2014/04/cac-phim-tat-trong-netbeans.html
+http://datvtit.blogspot.jp/2015/07/mot-so-thu-thuat-khi-code-voi-netbean.html
+
+https://www.thuthuatweb.net/sql/cach-chon-lua-du-lieu-ngau-nhien-tu-mysql-select.html
+http://lamwebbanhang.blogspot.jp/2016/06/huong-dan-lam-web-ban-hang-bang-code.html
+http://hoclaptrinhwebvnskill.blogspot.jp/2015/03/giu-lai-gia-tri-cua-from-khi-submit.html
+https://www.youtube.com/watch?v=pevtljVQ4Sg&list=UU8G1R2ND6dl_hUWpshOPW2A&index=26
+https://dieuhau.com
+https://stackoverflow.com/
+https://www.w3schools.com/
+https://freetuts.net/
+https://thachpham.com/
+
+--Aoki search
+https://qiita.com/nekoneko-wanwan/items/227ccad5f8cc449e91e9
+https://search.yahoo.co.jp/search?p=jquery+find+name+%E9%83%A8%E5%88%86%E4%B8%80%E8%87%B4&aq=-1&oq=&ai=Qv2NC5L0TgmoFEcVCti.9A&ts=4073&ei=UTF-8&fr=mcafeess1&x=wrt
+http://marketing-web.hatenablog.com/entry/jquery_attribute_selector
+https://zxcvbnmnbvcxz.com/jquery-name-selecter/index.html
+http://www.abe-tatsuya.com/web_prog/javascript/add_table_rows.php
+http://antonsan.net/study/php/php008.php
+--
+
+http://javascript123.seesaa.net/article/210863990.html
